@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/github/followers/Aditya-Patole?label=Followers&style=social" />
 </p>
 
+<p align="center">
+  <img src="coding-illustration.svg" width="500">
+</p>
+
 ---
 
 ### 💫 About Me
@@ -47,7 +51,7 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Patole&theme=algolia&column=7&margin-w=8&margin-h=8" alt="Aditya-Patole" />
+    <img src="https://github-trophies.vercel.app/?username=Aditya-Patole&theme=algolia&column=7&margin-w=8&margin-h=8" alt="Aditya-Patole" />
   </a>
 </p>
 

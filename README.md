@@ -61,7 +61,6 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
   <img src="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </p>
 
-> ⚙️ This animates your real contribution graph. It needs a one-time GitHub Action set up in a repo named exactly the same as your username (a "profile repo") — see setup notes at the bottom.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 

@@ -77,6 +77,7 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 - 🌐 **Portfolio**: [aditya-patole-portfolio.vercel.app](https://aditya-patole-portfolio.vercel.app/)
 <!-- - 📧 **Email**: [adityapatole908@gmail.com](mailto:adityapatole908@gmail.com)-->
 
+
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-patole" height="30" width="40" /></a>
 <a href="mailto:adityapatole908@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" height="30" width="70" /></a>

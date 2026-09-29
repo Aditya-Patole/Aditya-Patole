@@ -46,7 +46,7 @@ Driven by strong fundamentals in software engineering principles, including API 
 To become a proficient Full Stack & AI Engineer, develop innovative real-world solutions, and contribute to open-source projects that solve meaningful problems.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
-
+<!--
 ### 🏆 GitHub Trophies
 
 <p align="left">
@@ -54,6 +54,7 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
     <img src="https://github-trophies.vercel.app/?username=Aditya-Patole&theme=algolia&column=7&margin-w=8&margin-h=8" alt="Aditya-Patole" />
   </a>
 </p>
+-->
 
 ### 🐍 Contribution Snake
 

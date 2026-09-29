@@ -62,6 +62,8 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 </p>
 
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 
 ### 💻 Tech Stack

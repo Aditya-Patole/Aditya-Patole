@@ -40,7 +40,7 @@ Driven by strong fundamentals in software engineering principles, including API 
 * 🪑 **AR-Based Furniture Shop Management System** → Developed a full-stack e-commerce platform with Augmented Reality visualization to preview furniture in real-world space.
 
 * 📱 **TeachConnect – Unified Digital Learning Platform** (In Progress) → Building an Android app with live classes (Jitsi SDK), chat, attendance, and study material sharing.
-
+<!--just a normal comment for commit-->
 ### 🎯 Goal
 
 To become a proficient Full Stack & AI Engineer, develop innovative real-world solutions, and contribute to open-source projects that solve meaningful problems.

@@ -103,3 +103,5 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+
+

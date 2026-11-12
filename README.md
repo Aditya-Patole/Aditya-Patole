@@ -68,7 +68,9 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 
-### 📫 Let's Connect
+
+
+### 📫Let's Connect
 
 <!-- - 💼 **LinkedIn**: [linkedin.com/in/aditya-patole](https://www.linkedin.com/in/aditya-patole)-->
 - 💻 **GitHub**: [github.com/Aditya-Patole](https://github.com/Aditya-Patole)
@@ -83,7 +85,8 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 
-###🐍 Contribution Snake
+
+### 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source
@@ -102,6 +105,7 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
   </picture>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
+
 ### 📊 GitHub Stats
 
 <p align="left">

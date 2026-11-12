@@ -75,7 +75,7 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 <p align="left">
   <a href="https://github.com/Aditya-Patole" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="45" /></a>
   <a href="https://aditya-patole-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0E75B6?logo=vercel&logoColor=white" alt="Portfolio" height="45" /></a>
-  <a href="https://www.linkedin.com/in/aditya-patole" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" /></a>
+  <a href="https://www.linkedin.com/in/aditya-patole" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" /></a>
   <a href="mailto:adityapatole908@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="45" /></a>
 </p>
 

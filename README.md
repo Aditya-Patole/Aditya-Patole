@@ -69,18 +69,24 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 
 
+### 📫 Let's Connect
 
-### 📫Let's Connect
-
-<!-- - 💼 **LinkedIn**: [linkedin.com/in/aditya-patole](https://www.linkedin.com/in/aditya-patole)-->
-- 💻 **GitHub**: [github.com/Aditya-Patole](https://github.com/Aditya-Patole)
-- 🌐 **Portfolio**: [aditya-patole-portfolio.vercel.app](https://aditya-patole-portfolio.vercel.app/)
-<!-- - 📧 **Email**: [adityapatole908@gmail.com](mailto:adityapatole908@gmail.com)-->
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-patole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-patole" height="30" width="40" /></a>
-<a href="mailto:adityapatole908@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" height="30" width="70" /></a>
+<p align="center">
+  <a href="https://github.com/Aditya-Patole" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aditya-patole-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditya-patole" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:adityapatole908@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>

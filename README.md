@@ -72,23 +72,21 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 
 ### 📫 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Aditya-Patole" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="40" height="40"/>
+    <img align="center" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://aditya-patole-portfolio.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" alt="Portfolio" width="40" height="40"/>
+    <img align="center" src="https://img.shields.io/badge/Portfolio-0E75B6?logo=vercel&logoColor=white" alt="Portfolio" height="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditya-patole" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:adityapatole908@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/>
+  <a href="mailto:adityapatole908@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" width="70" />
   </a>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 

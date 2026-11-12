@@ -42,6 +42,8 @@ Driven by strong fundamentals in software engineering principles, including API 
 * 📱 **TeachConnect – Unified Digital Learning Platform** (In Progress) → Building an Android app with live classes (Jitsi SDK), chat, attendance, and study material sharing.
 <!--just a normal comment for commit-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
+
+
 ### 🎯 Goal
 
 To become a proficient Full Stack & AI Engineer, develop innovative real-world solutions, and contribute to open-source projects that solve meaningful problems.

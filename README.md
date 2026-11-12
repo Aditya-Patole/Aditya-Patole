@@ -41,6 +41,7 @@ Driven by strong fundamentals in software engineering principles, including API 
 
 * 📱 **TeachConnect – Unified Digital Learning Platform** (In Progress) → Building an Android app with live classes (Jitsi SDK), chat, attendance, and study material sharing.
 <!--just a normal comment for commit-->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 ### 🎯 Goal
 
 To become a proficient Full Stack & AI Engineer, develop innovative real-world solutions, and contribute to open-source projects that solve meaningful problems.
@@ -56,18 +57,8 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 </p>
 
 -->
-<!--
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</p>
--->
 
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 
 ### 💻 Tech Stack
 

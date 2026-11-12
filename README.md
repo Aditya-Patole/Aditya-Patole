@@ -64,25 +64,6 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 </p>
 -->
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake Animation"
-      width="100%"
-    />
-  </picture>
-</p>
 
 
 
@@ -121,6 +102,25 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=Aditya-Patole&theme=tokyonight&hide_border=false" alt="Aditya-Patole" />
+</p>
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Aditya-Patole/Aditya-Patole/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake Animation"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>

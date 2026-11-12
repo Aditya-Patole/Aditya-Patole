@@ -90,21 +90,7 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya-Patole&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aditya-Patole" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.shion.dev/api?username=Aditya-Patole&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Aditya-Patole" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Aditya-Patole&theme=tokyonight&hide_border=false" alt="Aditya-Patole" />
-</p>
-<h3 align="center">🐍 Contribution Snake</h3>
-
+###🐍 Contribution Snake
 <p align="center">
   <picture>
     <source
@@ -121,6 +107,20 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
       width="100%"
     />
   </picture>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=2&width=100%25" width="100%"/>
+### 📊 GitHub Stats
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya-Patole&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aditya-Patole" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.shion.dev/api?username=Aditya-Patole&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Aditya-Patole" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Aditya-Patole&theme=tokyonight&hide_border=false" alt="Aditya-Patole" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>

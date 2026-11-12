@@ -54,6 +54,7 @@ To become a proficient Full Stack & AI Engineer, develop innovative real-world s
     <img src="https://github-trophies.vercel.app/?username=Aditya-Patole&theme=algolia&column=7&margin-w=8&margin-h=8" alt="Aditya-Patole" />
   </a>
 </p>
+
 -->
 
 ### 🐍 Contribution Snake
